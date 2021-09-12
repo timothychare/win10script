@@ -1,14 +1,4 @@
 # win10script
-This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. I am building the script out to be a swiss army knife to help setup new machines and tweak existing ones saving time for all. 
+Working on setting this up to configure new windows installs with one script.
 
-## My Additions
-
-- Dark Mode
-- One Command to launch and run
-- Winget Install
-- O&O Shutup10 CFG and Run
-- Added Install Programs
-- Full GUI Implementation
-- Some customization
-
-For complete details check out https://christitus.com/debloat-windows-10-2020/
+For orogianl code https://christitus.com/debloat-windows-10-2020/
